@@ -33,3 +33,7 @@ sha512sum cce877133d64077bc23ffa08b66847506a1cc103b61defdc8008e77e51d4deb6fd73c7
 ```
 checkfile.py *
 ```
+
+# Recognition
+
+The authorship of this script is Sergiy Kolodyazhnyy
